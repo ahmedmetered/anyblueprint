@@ -2,7 +2,7 @@
 
 How to write PROMPT.md — a **single-shot prompt** that any coding agent (WrongStack, Claude
 Code, Cursor, and others) can execute to build the entire project from scratch. This is the
-most important output of the Project Architect skill. Because the prompt is fully
+most important output of this blueprint skill. Because the prompt is fully
 self-contained, it is portable across agents — write it once, run it anywhere.
 
 ## What Makes a Great Agent Prompt

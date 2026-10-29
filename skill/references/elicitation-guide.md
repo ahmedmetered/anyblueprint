@@ -53,7 +53,7 @@ Question: "Do you have a programming language preference?"
 Options: ["Yes, I know what I want", "Help me choose", "No preference"]
 ```
 
-If "Help me choose" → read `${CLAUDE_PLUGIN_ROOT}/references/tech-stacks.md` and run the stack advisor flow.
+If "Help me choose" → read `references/tech-stacks.md` and run the stack advisor flow.
 
 If "Yes, I know what I want" → ask freeform: "What language and framework?"
 
@@ -80,7 +80,7 @@ Options: [
 ]
 ```
 
-Then recommend: structured → PostgreSQL/MySQL/SQLite, flexible → MongoDB/CobaltDB,
+Then recommend: structured → PostgreSQL/MySQL/SQLite, flexible → MongoDB or a document store,
 time-series → TimescaleDB/ClickHouse, key-value → Redis/DragonflyDB. Present 2-3
 concrete options with trade-offs.
 

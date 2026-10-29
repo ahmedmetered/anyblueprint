@@ -50,6 +50,7 @@ relative to this skill's folder:
 | Implementation | `references/implementation-guide.md` | Before writing IMPLEMENTATION.md |
 | Tasks | `references/tasks-guide.md` | Before writing TASKS.md |
 | Branding | `references/branding-guide.md` | Before writing BRANDING.md |
+| PROMPT.md | `references/agent-prompt.md` | Synthesizing the four documents into the coding-agent prompt |
 
 ## Rules
 
